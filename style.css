@@ -1,0 +1,31 @@
+
+div{
+    background-image: url('C:\Users\Dhruvil Gadhvi\Desktop\bg.jpeg');
+  }
+
+img,img1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#name,#name1{
+    text-align: center; 
+}
+#release_date,#release_date1{
+    color:chocolate;
+    text-align: center;
+    
+}
+#overview,#overview1{
+    text-align: center;
+    color:brown
+}
+#popularity,#popularity{
+    text-align: center;
+    color: steelblue;
+}
+
+body{
+    text-align: center;
+    
+}
